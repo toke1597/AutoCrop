@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4557f2-8709-46e0-b5bd-2a0bce94d936" name="Default Changelist" comment="second">
-      <change beforePath="$PROJECT_DIR$/../AutoCrop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/toke1597/crop/Crop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/toke1597/crop/Crop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -53,7 +53,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -107,6 +107,7 @@
       <workItem from="1583393307665" duration="880000" />
       <workItem from="1583936665022" duration="942000" />
       <workItem from="1583937968923" duration="267000" />
+      <workItem from="1583940216592" duration="101000" />
     </task>
     <servers />
   </component>
@@ -142,10 +143,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="720" y="292" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583326356817" />
-    <state x="608" y="48" key="CommitChangelistDialog2" timestamp="1583391927558">
+    <state x="608" y="48" key="CommitChangelistDialog2" timestamp="1583940445553">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="608" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583391927558" />
+    <state x="608" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583940445553" />
     <state x="843" y="259" key="FileChooserDialogImpl" timestamp="1583311796230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -166,10 +167,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="937" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583938263799" />
-    <state x="553" y="157" key="SettingsEditor" timestamp="1583936719178">
+    <state x="553" y="157" key="SettingsEditor" timestamp="1583940314085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583936719178" />
+    <state x="553" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583940314085" />
+    <state x="890" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583940386620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="890" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583940386620" />
     <state x="643" y="92" width="633" height="855" key="find.popup" timestamp="1583315359902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

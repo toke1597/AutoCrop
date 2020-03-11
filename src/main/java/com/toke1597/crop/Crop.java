@@ -7,7 +7,7 @@ public class Crop extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        System.out.println(ChatColor.GREEN + "플러그인이 활성화되었습니다.");
+        System.out.println(ChatColor.GREEN + "[AutoCrop] 플러그인이 활성화되었습니다.");
         getServer().getPluginManager().registerEvents(new blockBreakEvent(this), this);
         getCommand("autocrop").setExecutor(new Commands());
     }
