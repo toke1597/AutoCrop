@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AutoCrop:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f4557f2-8709-46e0-b5bd-2a0bce94d936" name="Default Changelist" comment="second">
+      <change beforePath="$PROJECT_DIR$/../AutoCrop" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AutoCrop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YemDSG4uLPUE9uI4iJ7TiJwgL3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.toke1597.crop" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.toke1597.crop" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AutoCrop build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f4557f2-8709-46e0-b5bd-2a0bce94d936" name="Default Changelist" comment="" />
+      <created>1583311314224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583311314224</updated>
+      <workItem from="1583311320804" duration="13949000" />
+      <workItem from="1583327115385" duration="111000" />
+      <workItem from="1583391659016" duration="276000" />
+      <workItem from="1583393307665" duration="880000" />
+      <workItem from="1583936665022" duration="942000" />
+      <workItem from="1583937968923" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="177" key="#Project_Structure" timestamp="1583936825123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583936825123" />
+    <state x="430" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583315169514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="430" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583315169514" />
+    <state x="1113" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1583936896385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1113" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583936896385" />
+    <state x="905" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583311335265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="905" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583311335265" />
+    <state x="479" y="26" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583936878991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="479" y="26" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583936878991" />
+    <state x="720" y="292" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583326356817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="292" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583326356817" />
+    <state x="608" y="48" key="CommitChangelistDialog2" timestamp="1583391927558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="608" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583391927558" />
+    <state x="843" y="259" key="FileChooserDialogImpl" timestamp="1583311796230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="843" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583311796230" />
+    <state width="937" height="175" key="GridCell.Tab.0.bottom" timestamp="1583938263799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583938263799" />
+    <state width="937" height="175" key="GridCell.Tab.0.center" timestamp="1583938263799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="175" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583938263799" />
+    <state width="937" height="175" key="GridCell.Tab.0.left" timestamp="1583938263799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="175" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583938263799" />
+    <state width="937" height="175" key="GridCell.Tab.0.right" timestamp="1583938263799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583938263799" />
+    <state x="553" y="157" key="SettingsEditor" timestamp="1583936719178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583936719178" />
+    <state x="643" y="92" width="633" height="855" key="find.popup" timestamp="1583315359902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="92" width="633" height="855" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583315359902" />
+  </component>
+</project>

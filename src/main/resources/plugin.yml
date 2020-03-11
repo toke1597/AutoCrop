@@ -1,0 +1,7 @@
+name: Crop
+version: ${project.version}
+main: com.toke1597.crop.Crop
+api-version: 1.13
+commands:
+  autocrop:
+    description: Toggle autocrop!

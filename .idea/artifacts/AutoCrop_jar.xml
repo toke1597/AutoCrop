@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoCrop:jar">
+    <output-path>$PROJECT_DIR$/../게임/server/plugins</output-path>
+    <root id="archive" name="AutoCrop.jar">
+      <element id="module-output" name="AutoCrop" />
+    </root>
+  </artifact>
+</component>
